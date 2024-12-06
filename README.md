@@ -14,8 +14,6 @@ UniClone leverages smart contracts and blockchain technology to enable trustless
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-uniswap-dapp-project-source-code)
-
 #### Setup Video
 - [Final Code Setup video](https://youtu.be/NAuuGa_7oro?si=hHXzjfPR_mPQx78p)
 
